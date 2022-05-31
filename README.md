@@ -1,7 +1,9 @@
 # RAZER BLADE 15 (LATE 2020) | RZ09-03519 Running MacOS Monterey - OpenCore bootloader
 Bios modding or unlocking doesn't need required (Thank LuxuryWasTaken)
 
-<img align="right" src="/Images/monterey.png" alt="MacOS" width="300">
+<img src="/Images/monterey.png"  width="1000">
+<img src="/Images/monterey2.png"  width="1000">
+<img src="/Images/monterey3.png"  width="1000">
 
 <summary><strong>My Hardware 💻</strong></summary>
 </br>
