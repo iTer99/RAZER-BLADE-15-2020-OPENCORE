@@ -77,5 +77,6 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 - [ ] NVIDIA® GeForce® GTX 1660 Ti does'nt support for MacOS
 - [ ] Broken when dualboot with windows if using EFI Opencore
+- [ ] HDMI slot cann't use because it work on nVIDIA card so can be replace to USB slot
 - [ ] If trackpad have problem, just disabled Force Click and haptic feedback in Settings - Trackpad
 - [ ] You talk to me
